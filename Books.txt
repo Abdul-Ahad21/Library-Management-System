@@ -1,0 +1,13 @@
+10000	1	Meta-Physics
+10001	5	Calculus- for beginners
+10002	5	Introduction to statistics
+10003	2	Discrete Math Fundementals
+10004	4	Object Oriented Programming Fundamentals
+10005	5	Advanced Calculus
+10006	4	Accounts and Finance
+10007	5	Religion- A perspective from Philisophers
+10008	2	Sociology and Humanity
+10009	2	A Race against time
+10010	5	Digital Logic Design
+10011	2	Artificial Intelligence- A doom for humanity?
+10012	3	Data Science for advanced Machine Learning
